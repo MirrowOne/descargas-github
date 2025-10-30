@@ -1,0 +1,7 @@
+agregar este campo al principio de config.json:
+
+ "urlDashboard": "https://dashboard.mirrowapi.org",
+
+actualizar css 
+
+cambiar JS
